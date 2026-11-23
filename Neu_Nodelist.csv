@@ -1,0 +1,29 @@
+id,name,type,sex,party,sector,country
+500,Folge 500 Keine Entspannung im Konflikt mit Putin – wie ist ein neuer Krieg zu verhindern?,3,3,,,
+ul,Ursula Von der Leyen,1,1,cdu,Politik,Deutschland
+lk,Lars Klingbeil,1,2,spd,Politik,Deutschland
+nr,Norbert Röttgen,1,2,cdu,Politik,Deutschland
+sw,Sarah Wagenknecht,1,1,linke,Politik,Deutschland
+cs,Constanze Stelzenmüller,1,1,,Wissenschaft,Deutschland
+501,Folge 501 Putin führt Krieg in Europa – wie ist er zu stoppen?,3,3,,,
+cl,Christian Lindner,1,2,fdp,Politik,Deutschland
+ks,Karl Schlögel,1,2,,Wissenschaft,Deutschland
+lm,Ljudmyla Melnyk,1,1,,Wissenschaft,Ukraine
+kd,Kristina Dunz,1,1,,Journalismus,Deutschand
+el,Egils Levits,1,2,,Politik,Lettland
+502,Folge 502 Krieg gegen die Ukraine – wie weit wird Putin gehen?,2,3,,,
+ab,Annalena Baerbock,1,1,gruene,Politik,Deutschland
+ft,Frans Timmermans,1,2,,Politik,Niederlande
+am,Andrij Melnyk,1,2,,Politik,Ukraine
+al,Alexander Graf Lambsdorff,1,2,fdp,Politik,Deutschland
+er,Egon Ramms,1,2,,Militär,Deutschland
+503,Folge 503 Angriff auf die Ukraine – wie kann Putins Krieg beendet werden?,3,3,,,
+rh,Robert Habek,1,2,gruene,Politik,Deutschland
+cm,Claudia Major,1,1,,Wissenschaft,Deutschland
+kp,Katja Petrowskaja,1,1,,Journalismus,Ukraine
+rk,Roderich Kiesewetter,1,2,cdu,Politik,Deutschland
+cdu,CDU,2,3,,,
+gruene,Die Grünen,2,3,,,
+spd,SPD,2,3,,,
+fdp,FDP,2,3,,,
+linke,Die Linke,2,3,,,
